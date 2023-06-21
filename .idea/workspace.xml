@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e39df222-b73a-463b-a379-fdd3bbe48862" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LibraryTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LocalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodsLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/car/Aplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/car/Ferrari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cinema/Cinema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cinema/movi/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excercise4/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excercise4/language/LangUtill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/AnotherLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/MethodDoneOverloadingDoneBadly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/MethodsOverloadingDoneWell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libs/SuberLib.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RMwPsaluyRjXrJsblYLApdWbHj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Car">
+    <configuration name="Aplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="car.Aplication" />
+      <module name="Day04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.Car" />
+      <module name="Day04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cinema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cinema.Cinema" />
+      <module name="Day04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cinema.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.Homework" />
+      <module name="Day04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.Rectangle" />
+      <module name="Day04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Car" />
+        <item itemvalue="Application.Rectangle" />
+        <item itemvalue="Application.Homework" />
+        <item itemvalue="Application.Cinema" />
+        <item itemvalue="Application.Aplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e39df222-b73a-463b-a379-fdd3bbe48862" name="Changes" comment="" />
+      <created>1687073238818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687073238818</updated>
+      <workItem from="1687073240026" duration="16941000" />
+      <workItem from="1687184751874" duration="5776000" />
+      <workItem from="1687202574792" duration="3846000" />
+      <workItem from="1687244202053" duration="2049000" />
+      <workItem from="1687364948366" duration="1101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LibraryTester.java</url>
+          <line>12</line>
+          <properties class="LibraryTester" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Homework/Homework.java</url>
+          <line>6</line>
+          <properties class="Homework.Homework">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/car/Aplication.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
